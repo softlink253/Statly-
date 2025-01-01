@@ -69,5 +69,4 @@ Contact
 
 For any questions, suggestions, or feedback, please open an issue on the GitHub repository. We look forward to hearing from you!
 
-This version is compact, straightforward, and includes all essential information in a single section. 'softlink253' 
-
+This version is compact, straightforward, and includes all essential information in a single section.
